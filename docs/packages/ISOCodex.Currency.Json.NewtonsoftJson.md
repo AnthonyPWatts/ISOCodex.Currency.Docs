@@ -1,13 +1,13 @@
 # ISOCodex.Currency.Json.NewtonsoftJson
 
-Version 1.1.0 targets `netstandard2.0` for .NET Framework 4.7.2+ and modern .NET, replacing the redundant `netstandard2.1` asset. Framework consumers should enable automatic assembly binding redirects.
+Version 1.1.1 targets `netstandard2.0` for .NET Framework 4.7.2+ and modern .NET, replacing the redundant `netstandard2.1` asset. Framework consumers should enable automatic assembly binding redirects.
 
 Newtonsoft.Json converters for `ISOCodex.Currency` value objects.
 
 ## Install
 
 ```bash
-dotnet add package ISOCodex.Currency.Json.NewtonsoftJson --version 1.1.0
+dotnet add package ISOCodex.Currency.Json.NewtonsoftJson --version 1.1.1
 ```
 
 ## Usage

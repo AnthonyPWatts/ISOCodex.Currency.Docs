@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.1 - 2026-09-19
+
+- Updated NuGet project and package README links to the public documentation repository.
+- Preserved package IDs, public APIs, supported targets and MIT licensing.
+- Aligned ISOCodex dependencies with the coordinated documentation patch releases.
+
 ## 1.1.0 - 2026-09-19
 
 - Added .NET Standard 2.0 assets to all eight general-purpose packages for .NET Framework 4.7.2+ and modern .NET, replacing the redundant .NET Standard 2.1 assets while retaining public APIs and framework-specific adapters.

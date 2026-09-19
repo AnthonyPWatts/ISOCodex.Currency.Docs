@@ -1,13 +1,13 @@
 # ISOCodex.Currency
 
-Version 1.1.0 targets `netstandard2.0` for .NET Framework 4.7.2+ and modern .NET, replacing the redundant `netstandard2.1` asset. Framework consumers should enable automatic assembly binding redirects.
+Version 1.1.1 targets `netstandard2.0` for .NET Framework 4.7.2+ and modern .NET, replacing the redundant `netstandard2.1` asset. Framework consumers should enable automatic assembly binding redirects.
 
 Small, framework-agnostic ISO 4217-style currency metadata, immutable money values, and explicit currency rounding for .NET.
 
 ## Install
 
 ```bash
-dotnet add package ISOCodex.Currency --version 1.1.0
+dotnet add package ISOCodex.Currency --version 1.1.1
 ```
 
 ## What it is useful for

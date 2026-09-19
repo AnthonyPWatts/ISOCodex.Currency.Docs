@@ -6,10 +6,10 @@ This is the public documentation and issue tracker. The library implementation a
 
 ## Install
 
-Current release: **1.1.0**. [View on NuGet](https://www.nuget.org/packages/ISOCodex.Currency/1.1.0).
+Current release: **1.1.1**. [View on NuGet](https://www.nuget.org/packages/ISOCodex.Currency/1.1.1).
 
 ```powershell
-dotnet add package ISOCodex.Currency --version 1.1.0
+dotnet add package ISOCodex.Currency --version 1.1.1
 ```
 
 ## What it provides

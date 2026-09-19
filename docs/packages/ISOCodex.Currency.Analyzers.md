@@ -7,7 +7,7 @@ The compiler host must provide Microsoft.CodeAnalysis 5.3 or later. The applicat
 ## Install
 
 ```xml
-<PackageReference Include="ISOCodex.Currency.Analyzers" Version="1.1.0" PrivateAssets="all" />
+<PackageReference Include="ISOCodex.Currency.Analyzers" Version="1.1.1" PrivateAssets="all" />
 ```
 
 ## Diagnostics
